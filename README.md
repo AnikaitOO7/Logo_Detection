@@ -1,2 +1,2 @@
 # Logo_Detection
-A deep learning module to find out logo through  image
+A deep learning module to find out logo through  image using tenserflow
